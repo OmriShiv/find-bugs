@@ -1,0 +1,6 @@
+-   id: find-bugs
+    name: IntelliJ Find bugs
+    description: This hook finds bugs.
+    entry: pre-commit.rb
+    language: ruby
+    types: [text]
